@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+.Main{
+    padding-top: 50px;
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+
+.Typo{
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: black;
+    border-radius: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: medium;
+    color: rgb(78, 15, 69);
+    font-family:  Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.heading{
+    margin-left: 80px;
+    margin-top: 80px;
+    align-self: center;
+}
+.container {
+    height: 70vh;
+    width: 60%;
+    border-color: black;
+    border-radius: 30px;
+    border-style: solid;
+
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+
+.para{
+        font-family: sans-serif;
+        color : black;
+        font-size: large;
+        margin-left:  80px;
+        margin-right: 80px;
+        margin-top:  50px;
+}
